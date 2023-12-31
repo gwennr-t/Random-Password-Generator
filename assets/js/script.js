@@ -22,3 +22,15 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+//Generate password based on criteria
+function generatePassword() {
+    console.log("clicked generate password");
+  
+    var password = "";
+    for (var i = 0; i < passwordLength; i++) {
+      var randomIndex = Math.floor(Math.random() * characterArray.length);
+      password = password + characterArray[randomIndex];
+    }
+    return password;
+  }
