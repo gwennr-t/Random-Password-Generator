@@ -7,3 +7,5 @@
 <p>https://gwennr-t.github.io/Random-Password-Generator/</p>
 
 # Screenshot
+
+![gwennr-t github io_Random-Password-Generator_](https://github.com/gwennr-t/Random-Password-Generator/assets/150493048/2222d516-d32b-4f38-8eef-7272faf8723f)
